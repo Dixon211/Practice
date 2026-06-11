@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C++Practice.cpp
+  ConsoleApplication1.vcxproj -> C:\Users\Assoc\source\repos\ConsoleApplication1\x64\Debug\C++Practice.exe

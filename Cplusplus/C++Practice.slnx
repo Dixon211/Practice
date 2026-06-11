@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="20524103-1439-4ae5-8f37-a9bca2a1eb13" />
+  <Project Path="fcopy/fcopy.vcxproj" Id="6466e223-dd03-4436-ab22-f9bf20db7b05" />
+  <Project Path="Pizza_R/Pizza_R.vcxproj" Id="4e370481-94e5-4434-acd6-3de5dd603b23" />
+</Solution>
