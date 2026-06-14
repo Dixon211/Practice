@@ -8,6 +8,8 @@ PS start "<filepath> or <https string" # ex. PS start "https:/go.microsoft.com/f
 #Env Configuration
 git config --global user.name "Michael Dixon"# sets your name for commits
 git config --global user.email "131546168+Dixon211@users.noreply.github.com" #sets email for commits
+git config --global --add safe.directory C:/Github/Practice
+
 
 #from local working dir to staging area to Repository
 git add "File\path" #from local to staging area
@@ -30,6 +32,14 @@ git remote remove $connectionname
 #Push
 git push --set-upstream $filename $branchname #set push and pull to pull from here
 git push $remoteconnection --delete $remotebranch
+
+#rm (remove)
+git rm $filepath
+git rm -r $foldername
+
+
+#Submodule
+git submodule add $githublink
 
 #github connection, gh
 
