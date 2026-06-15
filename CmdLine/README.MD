@@ -3,8 +3,10 @@ Remember to check for help
 
 Powershell
 --------------
-
-Get-Help $functionname
+Basic:
+    <br>&emsp;Get-Help $functionname
+    <br>&emsp;ii = Invoke-Item $item
+    
 
 
 Git
