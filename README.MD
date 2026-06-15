@@ -13,13 +13,13 @@ Git
 https://git-scm.com/cheat-sheet
 
 Basic Config:
-    <br>&nbps;git config --global user.name $username
-    <br>git config --global user.email $useremail
+    <br>&emsp;git config --global user.name $username
+    <br>&emsp;git config --global user.email $useremail
 
 Remote Config:
-    <br>git remote add $githubURL
+    <br>&emsp;git remote add $githubURL
 
 Basic Commit:
-    <br>git add $filepath
-    <br>git commit -m $message
-    <br>git push $remoteconn $remotebranch
+    <br>&emsp;git add $filepath
+    <br>&emsp;git commit -m $message
+    <br>&emsp;git push $remoteconn $remotebranch
