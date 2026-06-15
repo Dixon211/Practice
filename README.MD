@@ -13,7 +13,7 @@ Git
 https://git-scm.com/cheat-sheet
 
 Basic Config:
-    <br>git config --global user.name $username
+    <br>&nbps;git config --global user.name $username
     <br>git config --global user.email $useremail
 
 Remote Config:
