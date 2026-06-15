@@ -12,4 +12,14 @@ Git
 
 https://git-scm.com/cheat-sheet
 
-https://github.com/Dixon211/Practice/tree/dev/Cmdline
+Basic Config:
+    git config --global user.name $username
+    git config --global user.email $useremail
+
+Remote Config:
+    git remote add $githubURL
+
+Basic Commit:
+    git add $filepath
+    git commit -m $message
+    git push $remoteconn $remotebranch
