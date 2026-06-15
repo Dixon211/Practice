@@ -44,16 +44,3 @@ git submodule add $githublink
 #github connection, gh
 
 ###Encryption
-
-
-
-
-https://github.com/Dixon211/Practice.git
-
-function gitaddC($filepath){
-    Write-Host "`nNeed to find"
-}
-
-
-
-$fp = "C:\\Github"
