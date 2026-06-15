@@ -5,9 +5,7 @@ Powershell
 --------------
 Basic:
     <br>&emsp;Get-Help $functionname
-    <br>&emsp;ii = Invoke-Item $item
-    
-
+    <br>&emsp;ii = Invoke-Item $item ex: ii README.md
 
 Git
 --------------
